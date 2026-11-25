@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-25 06:20">
+  <shop>
+    <name>3D-печать</name>
+    <company>3D-печать</company>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">3D изделия</category>
+    </categories>
+    <offers>
+      <offer id="19205" available="true">
+        <name>Символ года Овен / Золотой баран</name>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-w/20627732444.jpg</picture>
+        <description>Золотой баран – символ силы и благополучия. Выразительный дизайн с золотыми акцентами, изготовлен из прочных материалов на 3D-принтере.</description>
+        <weight>0.13</weight>
+      </offer>
+      <offer id="100206" available="true">
+        <name>Символ года Овен / Золотой баран (красно-оранжевый)</name>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-0/20627962992.jpg</picture>
+        <description>Золотой баран – символ силы и благополучия. Элегантное изделие в виде доброго животного станет ярким акцентом любого пространства. 3D-печать.</description>
+        <weight>0.13</weight>
+      </offer>
+      <offer id="100179" available="true">
+        <name>Фигурка для раскрашивания League of Legends: Каин чиби / 3D фигурка</name>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-c/10538336604.jpg</picture>
+        <description>Фигурка персонажа Каин из вселенной League of Legends выполнена в милом чиби-стиле. Изготовлена из прочного PETG пластика.</description>
+        <weight>0.15</weight>
+      </offer>
+      <offer id="100180" available="true">
+        <name>Фигурка для раскрашивания Фрирен: Штарк чиби / 3D фигурка</name>
+        <price>680</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-g/10539141424.jpg</picture>
+        <description>Прочная 3D-фигурка из экологичного PETG-пластика. В комплекте 12 цветов акриловой краски и 2 кисточки.</description>
+        <weight>0.15</weight>
+      </offer>
+      <offer id="100181" available="true">
+        <name>Фигурка для раскрашивания Honkai: Star Rail: Сяолин чиби / 3D фигурка</name>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-f/10542941871.jpg</picture>
+        <description>Уникальная 3D-фигурка из качественного PETG пластика. В комплекте 12 цветов акриловой краски и 2 кисточки.</description>
+        <weight>0.15</weight>
+      </offer>
+      <offer id="100182" available="true">
+        <name>Фигурка для раскрашивания Звездное дитя: Ай Хосино / 3D фигурка</name>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-y/10644234946.jpg</picture>
+        <description>Творческая игрушка с высокой детализацией из прочного PETG пластика. В комплекте 12 цветов акриловой краски и 2 кисточки.</description>
+        <weight>0.15</weight>
+      </offer>
+      <offer id="100193" available="true">
+        <name>Органайзер для канцелярии и письменного стола (черный)</name>
+        <price>910</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-q/11723576822.jpg</picture>
+        <description>Органайзер для письменного стола — идеальное решение для упорядочивания рабочего пространства. Прочный пластик, 3D-печать.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100190" available="true">
+        <name>Органайзер письменного стола настольный (золотой)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-5/11723497997.jpg</picture>
+        <description>Яркий и удобный настольный органайзер поможет навести идеальный порядок на вашем рабочем столе. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100192" available="true">
+        <name>Органайзер для канцелярии глянец (черный)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-e/12880534406.jpg</picture>
+        <description>Удобный настольный органайзер разделен на несколько зон разной высоты и глубины. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100191" available="true">
+        <name>Органайзер для канцелярии офисный (черный)</name>
+        <price>910</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-d/11695333513.jpg</picture>
+        <description>Удобный настольный органайзер для рабочего стола, школы и дома. Изготовлен из прочного пластика.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100189" available="true">
+        <name>Органайзер для канцелярии медово-золотой</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-t/11723237777.jpg</picture>
+        <description>Настольный органайзер разделен на удобные секции для ручек, карандашей и мелочей. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100194" available="true">
+        <name>Органайзер для канцелярии снег (белый)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-7/11723131771.jpg</picture>
+        <description>Элегантное решение для организации рабочего места. Компактная конструкция из прочного пластика.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100187" available="true">
+        <name>Органайзер для канцелярии разноцветный (ПЭТ)</name>
+        <price>1200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-o/14306866260.jpg</picture>
+        <description>Органайзер из прочного экологичного ПЭТ пластика. Компактная форма, устойчив к повреждениям.</description>
+        <weight>0.37</weight>
+      </offer>
+      <offer id="100199" available="true">
+        <name>Органайзер письменного стола ночь (черный)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-f/11723005995.jpg</picture>
+        <description>Компактный и вместительный органайзер для ручек, документов и мелких предметов. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100197" available="true">
+        <name>Органайзер для канцелярии компактный (белый)</name>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-2/11617607378.jpg</picture>
+        <description>Компактный органайзер с отсеками различной глубины. Прочный пластик, устойчивое плоское дно.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100195" available="true">
+        <name>Органайзер для канцелярии универсальный (белый)</name>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-o/11722908156.jpg</picture>
+        <description>Продуманная форма с несколькими секциями для четкой сортировки принадлежностей. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100196" available="true">
+        <name>Органайзер для канцелярии письменный (белый)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-e/11722788338.jpg</picture>
+        <description>Небольшие размеры позволяют разместить органайзер даже на ограниченном пространстве. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100198" available="true">
+        <name>Органайзер для канцелярии абрикос (золотой)</name>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-v/11722642843.jpg</picture>
+        <description>Компактный органайзер для хранения канцелярии, аксессуаров или мелочей. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100184" available="true">
+        <name>Органайзер для канцелярии зайчик (бирюзовый)</name>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-h/11779185113.jpg</picture>
+        <description>Практичный органайзер с универсальными отделениями для ручек, скрепок и мелочей. Прочный пластик.</description>
+        <weight>0.25</weight>
+      </offer>
+      <offer id="100126" available="true">
+        <name>Органайзер для канцелярии из ПЭТ (белый)</name>
+        <price>1140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-u/14338047918.jpg</picture>
+        <description>Изготовлен из прочного экологичного ПЭТ пластика, устойчив к повреждениям и деформации.</description>
+        <weight>0.37</weight>
+      </offer>
+      <offer id="100200" available="true">
+        <name>Органайзер для канцелярии АРТ-объект (черный)</name>
+        <price>1140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-6/14342703306.jpg</picture>
+        <description>Органайзер в виде арт-объекта из прочного ПЭТ пластика. Гладкая поверхность, стильный дизайн.</description>
+        <weight>0.2</weight>
+      </offer>
+      <offer id="100201" available="true">
+        <name>Органайзер для канцелярии офисный ПЭТ (черный)</name>
+        <price>1050</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-4/14442311128.jpg</picture>
+        <description>Прочный органайзер из экологичного ПЭТ пластика для рабочего места или учебы.</description>
+        <weight>0.37</weight>
+      </offer>
+      <offer id="100207" available="true">
+        <name>Органайзер для канцелярии легкий корпус (белый)</name>
+        <price>840</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-y/20628377386.jpg</picture>
+        <description>Прочный пластиковый контейнер для ручек, карандашей и блокнотов. Легкий корпус, 3D-печать.</description>
+        <weight>0.2</weight>
+      </offer>
+      <offer id="1002027" available="true">
+        <name>Набор новогодних украшений 3D Новогоднее кружево, 12 шт.</name>
+        <price>1560</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-g/21207507064.jpg</picture>
+        <description>Многоразовый декор из пластика на окна, стену и елку: 6 больших (23 см) и 6 маленьких (8 см) украшений.</description>
+        <weight>0.35</weight>
+      </offer>
+      <offer id="100202" available="true">
+        <name>Органайзер для украшений и бижутерии (пурпурный)</name>
+        <price>1020</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-1-k/14442885920.jpg</picture>
+        <description>Органайзер для хранения колец, сережек, часов и других аксессуаров. Изготовлен из ПЭТ пластика.</description>
+        <weight>0.25</weight>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
